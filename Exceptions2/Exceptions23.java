@@ -1,6 +1,6 @@
 package Exceptions2;
 // найчимся выбрасывать исключения  и использовать свой класс исключений ScannerException
-
+// поиск сществующих классов исключений: Google  Java Exception
 import java.io.IOException;
 import java.util.Scanner;
 
